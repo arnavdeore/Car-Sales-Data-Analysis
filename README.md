@@ -1,4 +1,6 @@
-# **Car-Sales-Data-Analysis**
+<h1 align="center"> <b> Car-Sales-Data-Analysis </b> </h1>
+<p align="center"> <img src="https://cdn.dribbble.com/userupload/23462936/file/original-f64595c0c5eea8cfc1cfd50c5e713796.gif" width="600"> </p>
+
 In today's competitive automotive industry, tracking and analyzing sales performance is crucial for sustainable growth. This project focuses on developing a comprehensive and interactive Car Sales Dashboard using Power BI to empower the car dealership with data-driven decision-making. The dashboard provides real-time 
     insights into Key Performance Indicators (KPIs) related to car sales, enabling the company to monitor sales trends, identify growth opportunities, and optimize business operations.
 
