@@ -7,8 +7,8 @@ The primary objective of this project is to design and implement a dynamic Car S
 
 ## Scope of the Project
 The Car Sales Dashboard covers the following key aspects:
-   1. Sales Overview – Year-to-Date (YTD) and Month-to-Date (MTD) sales performance, including Year-over-Year (YOY) growth and comparisons with previous years.
-   2. Average Price Analysis – Evaluating the average sale price across time periods and measuring growth.
+   1. Sales Overview – Year-to-date (YTD) and Month-to-Date (MTD) sales performance, including Year-over-Year (YOY) growth and comparisons with previous years.
+   2. Average Price Analysis – Evaluating the average sale price across periods and measuring growth.
    3. Cars Sold Metrics – Tracking the number of cars sold and comparing it with previous periods.
    4. Geographical and Demographic Insights – Analyzing car sales by dealer region, body style, and color.
 
@@ -16,4 +16,26 @@ The Car Sales Dashboard covers the following key aspects:
 
 ## Dataset Description
 The dataset used for this project contains 23,906 records and includes detailed information about car sales. Each record represents a unique sale transaction and contains the following attributes:
+
+| Column Name      | Description                                                         |
+|------------------|---------------------------------------------------------------------|
+| **Car_id**       | Unique identifier for each car sale                               |
+| **Date**         | Date of sale transaction                                          |
+| **Customer Name**| Customer's full name                                              |
+| **Gender**       | Gender of the customer (Male/Female/Other)                        |
+| **Annual Income**| Customer's annual income in USD                                   |
+| **Dealer_Name**  | Name of the car dealership                                        |
+| **Company**      | Car manufacturer (e.g., Ford, Dodge, Toyota)                      |
+| **Model**        | Specific model of the car sold                                   |
+| **Engine**       | Engine type (e.g., Petrol, Diesel, Electric)                      |
+| **Transmission** | Transmission type (Automatic/Manual)                              |
+| **Color**        | Exterior color of the car                                         |
+| **Price ($)**    | Sale price of the car in USD                                      |
+| **Dealer_No**    | Unique identification number for the dealer                      |
+| **Body Style**   | Car body style (SUV, Sedan, Hatchback, etc.)                      |
+| **Phone**        | Customer’s contact number (e.g., +1-XXX-XXX-XXXX)                 |
+| **Dealer_Region**| Geographical region where the car was sold (East, West, etc.)     |
+
+---
+
 
