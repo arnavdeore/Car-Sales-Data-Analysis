@@ -40,4 +40,35 @@ The dataset used for this project contains 23,906 records and includes detailed 
 
 ---
 
+# Methodology
+The process of developing the Car Sales Dashboard is divided into the following steps:
+     
+  1. Data Collection and Preparation
+     - Imported the dataset from the provided Excel file into Power BI.
+     - Ensured correct data types for all fields, particularly the Date column.
+     - Cleaned the dataset to handle any inconsistencies and standardized the column names.
 
+  2. KPI Calculation -To deliver meaningful insights, the following KPIs were calculated using DAX (Data Analysis Expressions) in Power BI:
+  
+    - Sales Overview KPIs:
+      1. Year-to-Date (YTD) Total Sales – Cumulative sales within the current year.
+      2. Month-to-Date (MTD) Total Sales – Total sales for the current month.
+      3. YOY Growth in Total Sales – Percentage increase/decrease compared to the previous year.
+      4. Difference between YTD Sales and Previous YTD (PTYD) Sales – Absolute difference between the current and previous 
+         year's YTD sales.
+
+    - Average Price Analysis KPIs:
+      1. YTD Average Price – Average car price for the current year.
+      2. MTD Average Price – Average car price for the current month.
+      3. YOY Growth in Average Price – Percentage change in the average price compared to the previous year.
+      4. Difference between YTD Average Price and PTYD Average Price – Difference between the current and previous year's 
+         YTD average price.
+
+    - Cars Sold Metrics:
+      1. YTD Cars Sold – Total number of cars sold this year.
+      2. MTD Cars Sold – Total number of cars sold during the current month.
+      3. YOY Growth in Cars Sold – Growth rate in cars sold compared to the previous year.
+      4. Difference between YTD Cars Sold and PTYD Cars Sold – Difference in the number of cars sold compared to the
+         previous year.
+
+---
