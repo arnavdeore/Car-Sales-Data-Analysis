@@ -72,3 +72,28 @@ The process of developing the Car Sales Dashboard is divided into the following 
          previous year.
 
 ---
+
+# Data Visualization
+The following visualizations were created in Power BI to provide a comprehensive analysis:
+ 1. YTD Sales Weekly Trend – A line chart showing weekly sales trends over the year.
+ 2. YTD Total Sales by Body Style – A pie chart representing the contribution of different body styles.
+ 3. YTD Total Sales by Color – A pie chart displaying sales by car color.
+ 4. TD Cars Sold by Dealer Region – A map chart to visualize sales distribution across regions.
+ 5. Company-Wise Sales Trend – A table displaying sales figures for each company.
+ 6. Detailed Sales Information – A grid providing a complete view of all sales data.
+
+---
+
+# Dashboard Implementation
+Layout Design: Organized the dashboard into sections for better clarity:
+  1. KPI Cards for quick metrics overview.
+  2. Line charts for trend analysis.
+  3. Pie and map charts for categorical and geographical data.
+  4. Data grids for granular-level insights.
+  5. Interactivity: Added slicers for filtering by Date, Dealer Region, and Company to enable dynamic analysis.
+  6. Formatting: Applied consistent color schemes and clear labeling for easy interpretation.
+  7. Publishing: Published the dashboard to Power BI Service for stakeholder access.
+
+---
+
+
